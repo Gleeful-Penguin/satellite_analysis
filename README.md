@@ -1,5 +1,5 @@
 # tableau_project
-Link to Tableau Public: https://public.tableau.com/profile/kostadin.mitkov#!/vizhome/Project1_15931252553720/Storypresentation
+Link to Tableau Public: https://public.tableau.com/shared/BM4NZ96YS?:display_count=n&:origin=viz_share_link
 
 ## Overview
 In this project, I strive to visualize some interesting data about satellites orbiting the Earth. In order to achieve this I merged two datasets: 
